@@ -56,10 +56,9 @@
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" />
   <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
-  <project path="external/bluetooth/bluedroid" name="p990-dev/android_external_bluetooth_bluedroid" revision="cm-10.1" />
-  <project path="external/bluetooth/bluez" name="p990-dev/android_external_bluetooth_bluez" revision="cm-10.1-bluez" />
-  <project path="external/bluetooth/glib" name="p990-dev/android_external_bluetooth_glib" revision="cm-10.1-bluez" />
-  <project path="external/bluetooth/hcidump" name="p990-dev/android_external_bluetooth_hcidump" revision="cm-10.1-bluez" />
+  <project path="external/bluetooth/bluez" name="p990-dev/android_external_bluetooth_bluez" />
+  <project path="external/bluetooth/glib" name="p990-dev/android_external_bluetooth_glib" />
+  <project path="external/bluetooth/hcidump" name="p990-dev/android_external_bluetooth_hcidump" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
