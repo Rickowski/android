@@ -69,7 +69,7 @@
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" />
   <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
   <project path="external/dexmaker" name="CyanogenMod/android_external_dexmaker" />
-  <project path="external/dhcpcd" name="BangL/android_external_dhcpcd" remote="private" revision="jb-412" />
+  <project path="external/dhcpcd" name="BangL/android_external_dhcpcd" remote="private" />
   <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
   <project path="external/doclava" name="CyanogenMod/android_external_doclava" />
   <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" />
@@ -215,7 +215,7 @@
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
-  <project path="external/wpa_supplicant_8" name="BangL/android_external_wpa_supplicant_8" remote="private" revision="jb-412" />
+  <project path="external/wpa_supplicant_8" name="BangL/android_external_wpa_supplicant_8" remote="private" />
   <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" name="CyanogenMod/android_external_xmp_toolkit" />
