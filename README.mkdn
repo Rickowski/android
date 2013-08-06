@@ -1,4 +1,4 @@
-UNOFFICIAL CyanogenMod 10.1 (for p990)
+UNOFFICIAL CyanogenMod 10.1 (p990)
 ===========
 by temasek & MisjugdedTwat (BangL)
 
