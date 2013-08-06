@@ -1,4 +1,5 @@
-CyanogenMod (not really)
+Unoffial CyanogenMod 10.1 (for p990)
+by temasek & MisjugdedTwat (BangL)
 ===========
 
 Getting Started
