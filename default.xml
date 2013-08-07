@@ -40,7 +40,6 @@
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/lge/p990" name="BangL/android_device_lge_p990" remote="private" />
-  <project path="device/lge/star-common" name="BangL/android_device_lge_star-common" remote="private" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" />
