@@ -1,5 +1,6 @@
-CyanogenMod (not really)
+UNOFFICIAL CyanogenMod 10.1 (p990)
 ===========
+by temasek & MisjugdedTwat (BangL)
 
 Getting Started
 ---------------
@@ -14,3 +15,26 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 Then to sync up:
 
     repo sync
+
+Credits
+---------------
+CyanogenMod
+pengus77
+tonyp
+Ricardo Cerqueira
+Codeworkx
+XpLoDWilD
+entropy512
+David van Tonder
+TeamDouche
+SlimROM
+AOKP
+CarbonROM
+ChameleonOS
+ParanoidAndroid
+Yank555
+AndreiLux
+AndiP71
+DerTeufel
+Christiano Matos (crDroid)
+All other coders for making CM possible!
