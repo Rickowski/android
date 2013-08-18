@@ -2,7 +2,7 @@ UNOFFICIAL CyanogenMod 10.1 (ace)
 ===========
 Based on the CM-10.1 (p990) by temasek & MisjugdedTwat (BangL)
     
-    http://github.com/BangL/android
+http://github.com/BangL/android
 
 Getting Started
 ---------------
