@@ -1,6 +1,7 @@
-UNOFFICIAL CyanogenMod 10.1 (p990)
+UNOFFICIAL CyanogenMod 10.1 (ace)
 ===========
-by temasek & MisjugdedTwat (BangL)
+Based on the CM-10.1 (p990) by temasek & MisjugdedTwat (BangL)
+    http://github.com/BangL/android
 
 Getting Started
 ---------------
@@ -10,31 +11,8 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/BangL/android.git -b cm-10.1
+    repo init -u git://github.com/Rickowski/android.git -b cm-10.1
 
 Then to sync up:
 
     repo sync
-
-Credits
----------------
-CyanogenMod
-pengus77
-tonyp
-Ricardo Cerqueira
-Codeworkx
-XpLoDWilD
-entropy512
-David van Tonder
-TeamDouche
-SlimROM
-AOKP
-CarbonROM
-ChameleonOS
-ParanoidAndroid
-Yank555
-AndreiLux
-AndiP71
-DerTeufel
-Christiano Matos (crDroid)
-All other coders for making CM possible!
