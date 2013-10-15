@@ -85,6 +85,7 @@
   <project path="external/fat32lib" name="CyanogenMod/android_external_fat32lib" />
   <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" />
+  <project path="external/Focal" name="BangL/android_external_Focal" remote="private" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
   <project path="external/fuse" name="CyanogenMod/android_external_fuse" />
